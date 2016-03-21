@@ -11,7 +11,7 @@ function bomDia() {
     var horario = new Date();
 
     if (horario.getHours() === 5 && horario.getMinutes() === 45) {
-        dispatch(campo, "textInput", "bom dia");
+        dispatch(campo, "textInput", "Bom dia, honestos. Você é o único representante dos seus sonhos na face da terra.");
     }
 
     document.getElementsByClassName("icon btn-icon icon-send")[0].click();
