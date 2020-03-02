@@ -1,4 +1,4 @@
 # Whatsapp Webspammer
 
-Used to spam text in whatsapp web app.
+Used to spam text in whatsapp web app.  
 Use tampermonkey extension.
